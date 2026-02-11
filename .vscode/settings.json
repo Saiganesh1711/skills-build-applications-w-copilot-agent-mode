@@ -1,0 +1,3 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/octofit-tracker/backend/venv/bin/python"
+}
